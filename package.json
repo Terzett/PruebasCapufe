@@ -21,7 +21,8 @@
     "jsonwebtoken": "^9.0.0",
     "mongoose": "^6.10.0",
     "moongose": "^1.0.0",
-    "uuid": "^9.0.0"
+    "uuid": "^9.0.0",
+    "xmlbuilder": "^15.1.1"
   },
   "description": ""
 }
